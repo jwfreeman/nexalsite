@@ -1,0 +1,25 @@
+/* header */
+
+#headerBox {
+    position: relative;
+    width: 300px;
+    height:100px;
+}
+
+#headerContent {
+    background-color: red;
+    border-radius: 20px;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    text-align: center;
+}
+
+#headerContent span {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 4.5em;
+    color: white;
+    vertical-align: center;
+}
+
+
